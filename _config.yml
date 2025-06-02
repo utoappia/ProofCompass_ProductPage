@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+title: Proof Compass
+show_downloads: false
+github:
+  is_project_page: false
